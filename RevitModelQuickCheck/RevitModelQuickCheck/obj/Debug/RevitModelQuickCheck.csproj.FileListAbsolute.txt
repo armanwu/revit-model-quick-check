@@ -1,0 +1,6 @@
+E:\core\projects\github\revit-model-quick-check\RevitModelQuickCheck\RevitModelQuickCheck\bin\Debug\RevitModelQuickCheck.dll
+E:\core\projects\github\revit-model-quick-check\RevitModelQuickCheck\RevitModelQuickCheck\bin\Debug\RevitModelQuickCheck.pdb
+E:\core\projects\github\revit-model-quick-check\RevitModelQuickCheck\RevitModelQuickCheck\obj\Debug\RevitModelQuickCheck.csproj.AssemblyReference.cache
+E:\core\projects\github\revit-model-quick-check\RevitModelQuickCheck\RevitModelQuickCheck\obj\Debug\RevitModelQuickCheck.csproj.CoreCompileInputs.cache
+E:\core\projects\github\revit-model-quick-check\RevitModelQuickCheck\RevitModelQuickCheck\obj\Debug\RevitModelQuickCheck.dll
+E:\core\projects\github\revit-model-quick-check\RevitModelQuickCheck\RevitModelQuickCheck\obj\Debug\RevitModelQuickCheck.pdb
