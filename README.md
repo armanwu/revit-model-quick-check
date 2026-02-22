@@ -13,7 +13,7 @@ Open the solution in Visual Studio, add references to `RevitAPI.dll` and `RevitA
 
 ## Install
 
-1. Copy the built DLL to a fixed folder, e.g. `C:\MyRevitAddins\RevitModelQuickCheck\RevitModelQuickCheck.dll`
+1. Copy the built DLL to a fixed folder, e.g. `C:\MyRevitAddins\RevitModelQuickCheck.dll`
 2. Copy the `.addin` file to:
    `C:\ProgramData\Autodesk\Revit\Addins\20XX\`
 3. Edit the `.addin` `<Assembly>` path to match your DLL location.
